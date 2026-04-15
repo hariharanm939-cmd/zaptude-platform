@@ -34,6 +34,9 @@ Screen shots
 
 <img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/5d93c753-eca4-4073-85c2-fb093f6708d3" />
 
+<img width="593" height="1033" alt="image" src="https://github.com/user-attachments/assets/eae8b10c-3801-48e1-9d95-c9823ec38b09" />
+
+
 
 
 ## 📌 Note
