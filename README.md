@@ -26,6 +26,13 @@ Zaptude is an aptitude learning platform designed to provide a structured and in
 - Supabase  
 
 ---
+Screen shots
+
+<img width="1539" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa2e2ea3-0c6f-4285-9676-43d6a215835a" />
+
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/5d93c753-eca4-4073-85c2-fb093f6708d3" />
+
+
 
 ## 📌 Note
 This project is currently under active development.
